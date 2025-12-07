@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# MATLAB
+*.asv
+*.mex*
+*.slxc
+*.slxautosave
+
+# VSCode & OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# data / output
+*.mat
+*.log
+*.csv
